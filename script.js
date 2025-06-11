@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/cec.webp',
-  './img/images.jpeg',
+  './img/letche.png',
   './img/homidoleite.avif'
 ];
 let currentIndex = 0;
