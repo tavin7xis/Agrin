@@ -32,13 +32,13 @@ body {
   z-index: 1000;
 }
 
-.logo img {
+.logovdd img {
   width: 150px;
   height: auto;
   transition: transform 0.3s;
 }
 
-.logo img:hover {
+.logovdd img:hover {
   transform: scale(1.1);
 }
 
