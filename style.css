@@ -22,8 +22,8 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #ffffff;
-  color: white;
+  background-color: #3f704d;
+  color: rgb(255, 255, 255);
   display: flex;
   flex-wrap: wrap;
   align-items: center;
